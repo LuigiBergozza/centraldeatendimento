@@ -74,7 +74,7 @@ const Footer = () => {
               </ul>
               <div className="relative text-gray-500 focus-within:text-gray-900">
                 <div className="pointer-events-none absolute inset-y-0 right-6 flex items-center pl-3">
-                  <MessageCircleQuestionIcon className="size-[21px]" />
+                  <MessageCircleQuestionIcon className="size-5.25" />
                 </div>
                 <button
                   type="button"
