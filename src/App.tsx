@@ -8,7 +8,7 @@ import { Contato } from "./pages/contato";
 import { Location } from "./pages/location";
 
 // 💡 Defina o nome do seu repositório aqui
-const REPO_NAME = "centraldeatendimeto"; 
+const REPO_NAME = "centraldeatendimento"; 
 
 // O basename é "/" localmente (DEV) e "/nome-do-repositorio/" no deploy (PROD)
 const BASE_NAME = 
